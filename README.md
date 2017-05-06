@@ -1,9 +1,9 @@
 # DataOne_assignment
-##Requirements:
+## Requirements:
 python3
 
-##Step to build:
+## Step to build:
 python3 dataone.py
 
-##input:
+## input:
 (csv filename) (name of products) 
