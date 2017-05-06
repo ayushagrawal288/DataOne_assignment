@@ -6,9 +6,9 @@ program that accepts a price file of baby products(format below) as CSV file, an
 python3
 
 ## Step to build:
-git clone (repo link)
-cd DataOne_assignment
-python3 dataone.py
+git clone (repo link)__
+cd DataOne_assignment__
+python3 dataone.py__
 
 ## input:
 (csv filename) (name of products) 
