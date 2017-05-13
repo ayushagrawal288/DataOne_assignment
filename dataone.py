@@ -1,7 +1,11 @@
 import csv
+import sys
 
-inputdata = input()
-inputdata = inputdata.split(' ')
+x=sys.argv
+# inputdata = input()
+# inputdata = inputdata.split(' ')
+inputdata = x[1:]
+print(inputdata)
 shopid = shopno = "0"
 price = 0.00
 a=[0]*len(inputdata)
