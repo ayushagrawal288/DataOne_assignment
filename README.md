@@ -8,5 +8,4 @@ python3
 ## Step to build:
 git clone (repo link)  
 cd DataOne_assignment  
-python3 dataone.py <csv filename> <name of product> <name of product>
-
+python3 dataone.py (csv filename) (name of product) (name of product)
